@@ -1,0 +1,15 @@
+{
+  "name": "supermelneyremastered",
+  "version": "1.0.0",
+  "description": "A Super Mario Knockoff Remastered From Scratch On To PC",
+  "main": "main.js",
+  "scripts": {
+    "build": "electron-builder --dir --ia32",
+	"start":"electron"
+  },
+  "author": "Gvbvdxx",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.2.2"
+  }
+}
